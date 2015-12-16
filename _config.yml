@@ -1,0 +1,28 @@
+name: Geekstra
+favicon: null
+layout_spectrum: 0.1477673565968871
+typography_spectrum: 0.321285862242803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6774209837894887
+  lightness: 0.47450409876182675
+  saturation: 0.7742301959078759
+  rhythmicContrast: 0.375747783575207
+purpose: []
