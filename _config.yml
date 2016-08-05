@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Resmi Sitemiz
+    url: 'http://geekstra.com'
+    type: external
 favicon: null
 title: GEEKSTRA
 description: Türkiye'nin Ekstra Geek Sitesi
