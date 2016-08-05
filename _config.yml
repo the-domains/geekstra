@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac040f2c-21eb-4eeb-bedd-08c405b3f5aa.png
 name: Geekstra
 cta:
   domain: null
@@ -28,7 +30,8 @@ navigation:
   - name: Resmi Sitemiz
     url: 'http://geekstra.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa69ed94-ed23-4046-9f29-b83db8bbe4f7.png
 title: GEEKSTRA
 description: Türkiye'nin Ekstra Geek Sitesi
 purpose: []
